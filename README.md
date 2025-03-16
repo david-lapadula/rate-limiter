@@ -23,8 +23,8 @@ To run this on your local machine, first ensure you have Node installed. Link av
 
 1. Clone the repository to your local machine. 
 ```bash
-git clone https://github.com/DavidLapadula/RateLimiter.git
-cd ratelimiter
+git clone https://github.com/DavidLapadula/rate-limiter.git
+cd rate-limiter
 ```  
 
 2. Open a terminal in the root directory and run:
